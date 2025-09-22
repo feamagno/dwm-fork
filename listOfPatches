@@ -2,3 +2,5 @@ dwm-autostart-20210120-cb3f58a.diff || dwm-autostart-20161205-bb3bd6f.diff -- fi
 idk which of these two I used to patch 
 
 dwm-hide_vacant_tags-6.2.diff -- hides tags that have no application on them
+
+dwm-tilegap-6.4.diff -- adds a gap to windows
