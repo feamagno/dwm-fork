@@ -4,3 +4,7 @@ idk which of these two I used to patch
 dwm-hide_vacant_tags-6.2.diff -- hides tags that have no application on them
 
 dwm-tilegap-6.4.diff -- adds a gap to windows
+
+dwm-6.2-urg-border.diff -- urgent border whatever that is
+
+dwm-restartsig-20180523-6.2.diff -- restarts dwm
