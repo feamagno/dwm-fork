@@ -8,3 +8,5 @@ dwm-tilegap-6.4.diff -- adds a gap to windows
 dwm-6.2-urg-border.diff -- urgent border whatever that is
 
 dwm-restartsig-20180523-6.2.diff -- restarts dwm
+
+dwm-xrdb-6.4.diff -- Xresources support
